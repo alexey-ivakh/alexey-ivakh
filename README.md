@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Alexey Ivakh 👋
 
-<!--
-**alexey-ivakh/alexey-ivakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Backend Developer | Data Analyst | Founder of MyJob
 
-Here are some ideas to get you started:
+I'm a Python developer and aspiring Data Analyst with a strong engineering background.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm building **MyJob** — a private commercial Telegram platform for job search and recruitment.
+
+## Tech Stack
+
+- Python
+- SQL
+- PostgreSQL
+- Power BI
+- Git
+- Docker
+- REST API
+
+## Current Focus
+
+- 🚀 Building MyJob
+- 📊 Improving Data Analytics skills
+- 🌍 Preparing for an international remote career
+
+## Featured Project
+
+### MyJob *(Private Commercial Project)*
+
+Telegram platform for job search and recruitment.
+
+**Tech Stack:**
+
+- Python
+- Telegram Bot API
+- SQLAlchemy
+- PostgreSQL
+- Docker
+
+> Source code is private.
+
+## Contact
+
+- Email: alexforamir@gmail.com
