@@ -1,6 +1,6 @@
 # Hi, I'm Alexey Ivakh 👋
 
-## Python Backend Developer | Data Analyst | Founder of MyJob
+## Python Developer | Data Analyst | Founder of MyJob
 
 I'm a Python developer and aspiring Data Analyst with a strong engineering background.
 
